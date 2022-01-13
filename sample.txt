@@ -1,0 +1,6 @@
+this is a basic sample, let's call it a phone. 
+
+features:
+- scratchless
+- temperedd
+- smooth and shiny
