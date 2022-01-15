@@ -1,0 +1,2 @@
+create a project, using git to manage teams.
+Gamify it! 
